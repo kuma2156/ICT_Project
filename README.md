@@ -19,7 +19,21 @@
 
 ## 주요 역할 및 기능
 
-### 1. 데이터베이스 관리 및 가공 - 김명규 (백엔드)
+<div align="left">
+    <h1>💻 백엔드</h1>
+    <table>
+        <tr>
+            <td align="center"><img src="https://github.com/user-attachments/assets/61049fd5-5e06-4b17-bb51-d925ea3e68dc" width="250"></td>
+        </tr>
+        <tr>
+            <td align="center"><b>김명규</b></td>
+        </tr>
+        <tr>
+            <td align="center"><b>https://github.com/kuma2156</b></td>
+        </tr>
+    </table>
+</div>
+
 #### **주요 역할**:
 - **데이터베이스 설계 및 관리**:
     - **MongoDB**를 사용하여 대용량의 실시간 가격 변동 데이터를 처리하고 저장
