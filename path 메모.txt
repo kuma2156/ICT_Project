@@ -1,0 +1,4 @@
+C:\Program Files\MongoDB\Server\7.0\bin
+몽고 db path
+
+mongodb+srv://haneum:gksdldma001@cluster0.qiemnkw.mongodb.net
