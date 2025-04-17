@@ -77,11 +77,11 @@
 <table style="background:white; padding:10px; border-radius:8px;">
     <tr>
         <td align="center">
-            <img src="https://github.com/user-attachments/assets/fc3295ef-a7ad-4bc6-a680-92acf3598804" width="64" height="64">
+            <img src="https://github.com/user-attachments/assets/bf8f73ab-6b65-4206-9c0a-b3aa8b0b4b42" width="64" height="64">
         </td>
     </tr>
     <tr>
-        <td align="center"><b>MySQL</b></td>
+        <td align="center"><b>Mongo DB</b></td>
     </tr>
 </table>
 
