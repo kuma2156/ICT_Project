@@ -91,14 +91,10 @@
 <table style="background:white; padding:10px; border-radius:8px;">
     <tr>
         <td align="center">
-            <img src="https://github.com/user-attachments/assets/e4a176de-bf94-4f83-b45c-eb79492f4477" width="64" height="64">
-        </td>
-        <td align="center">
             <img src="https://github.com/user-attachments/assets/67ebb9cf-313a-419f-9edc-5654750bad30" width="64" height="64">
         </td>
     </tr>
     <tr>
-        <td align="center"><b>PM2</b></td>
         <td align="center"><b>GitHub</b></td>
     </tr>
 </table>
