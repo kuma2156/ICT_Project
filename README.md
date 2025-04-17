@@ -56,10 +56,10 @@
 <div align="left">
     <table>
         <tr>
-            <td>### 데이터 흐름:</td>
+            <td h3>데이터 흐름</td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/user-attachments/assets/112d2999-80b7-40d8-aae6-87066056e047" width="250"></td>
+            <td align="center"><img src="https://github.com/user-attachments/assets/112d2999-80b7-40d8-aae6-87066056e047" width="700"></td>
         </tr>
     </table>
 </div>
