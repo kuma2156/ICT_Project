@@ -72,6 +72,38 @@
 
 ### 데이터베이스 설계
 
+
+### 🗄️ 데이터베이스 (Database)
+<table style="background:white; padding:10px; border-radius:8px;">
+    <tr>
+        <td align="center">
+            <img src="https://github.com/user-attachments/assets/fc3295ef-a7ad-4bc6-a680-92acf3598804" width="64" height="64">
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><b>MySQL</b></td>
+    </tr>
+</table>
+
+---
+
+### ☁️ 배포 및 기타 (Deployment & DevOps)
+<table style="background:white; padding:10px; border-radius:8px;">
+    <tr>
+        <td align="center">
+            <img src="https://github.com/user-attachments/assets/e4a176de-bf94-4f83-b45c-eb79492f4477" width="64" height="64">
+        </td>
+        <td align="center">
+            <img src="https://github.com/user-attachments/assets/67ebb9cf-313a-419f-9edc-5654750bad30" width="64" height="64">
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><b>PM2</b></td>
+        <td align="center"><b>GitHub</b></td>
+    </tr>
+</table>
+
+
 #### **MongoDB 데이터 모델**
 MongoDB를 사용하여 가격 변동 데이터를 효율적으로 처리할 수 있는 구조를 설계했습니다. 주요 컬렉션은 아래와 같습니다.
 
